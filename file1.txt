@@ -1,2 +1,3 @@
 Hello i'm practicing Git 
 second day of practicing Git
+some change on file 1
