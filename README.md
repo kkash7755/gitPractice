@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 29august2025
 <<<<<<< HEAD
 udemy repo
@@ -18,3 +19,7 @@ updated remote redme file
 updated remote README.md file
 second update on remote README.md file
 >>>>>>> fefd4783f7a39ea3f8125799bf8100428cc0ec4e
+=======
+# gitPractice
+Practicing Git
+>>>>>>> 09fc880e1edbaa725b305ab6b98ab5ec0be8b405
