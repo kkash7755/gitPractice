@@ -1,3 +1,7 @@
 Hello i'm practicing Git 
 second day of practicing Git
+<<<<<<< HEAD
 some change on file 1 [ change on local ]
+=======
+some change on file 1 [ change on remote file 1 ]
+>>>>>>> ae266bd53fe83ddab1c3cb0735a1cf4d51816395
